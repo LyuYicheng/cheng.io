@@ -1,4 +1,4 @@
 # cheng.io
 Personal profile
 
-Hi, my neme is Lyu Yi Cheng;
+Hi, my name is Lyu Yi Cheng;
